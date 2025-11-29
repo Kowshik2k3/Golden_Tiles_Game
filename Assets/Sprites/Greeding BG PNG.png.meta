@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 8e7e16db6955bc64bb396ea070fd40a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4834273694685416907
+    second: Greeding BG PNG_0
+  - first:
+      213: 789990133168453996
+    second: Greeding BG PNG_1
+  - first:
+      213: -998754451534149267
+    second: Greeding BG PNG_2
+  - first:
+      213: 3726246875117037423
+    second: Greeding BG PNG_3
+  - first:
+      213: -7623510008329546178
+    second: Greeding BG PNG_4
+  - first:
+      213: -5518211475128025099
+    second: Greeding BG PNG_5
+  - first:
+      213: -613319314861360438
+    second: Greeding BG PNG_6
+  - first:
+      213: 2078461194407063040
+    second: Greeding BG PNG_7
+  - first:
+      213: -7828289131937032809
+    second: Greeding BG PNG_8
+  - first:
+      213: 2810919448979964176
+    second: Greeding BG PNG_9
+  - first:
+      213: -8013714849393224927
+    second: Greeding BG PNG_10
+  - first:
+      213: -822754723992554757
+    second: Greeding BG PNG_11
+  - first:
+      213: -684604166000219420
+    second: Greeding BG PNG_12
+  - first:
+      213: 4408066607551083810
+    second: Greeding BG PNG_13
+  - first:
+      213: -2648519112323685955
+    second: Greeding BG PNG_14
+  - first:
+      213: -1571484117832971992
+    second: Greeding BG PNG_15
+  - first:
+      213: -3830931328901298824
+    second: Greeding BG PNG_16
+  - first:
+      213: -3730905070940802382
+    second: Greeding BG PNG_17
+  - first:
+      213: -6285193870354211569
+    second: Greeding BG PNG_18
+  - first:
+      213: -713941648140772607
+    second: Greeding BG PNG_19
+  - first:
+      213: -4502640934955479933
+    second: Greeding BG PNG_20
+  - first:
+      213: -3661050124929697302
+    second: Greeding BG PNG_21
+  - first:
+      213: 3079255871577563999
+    second: Greeding BG PNG_22
+  - first:
+      213: 3498825892065914671
+    second: Greeding BG PNG_23
+  - first:
+      213: 8935558213314553224
+    second: Greeding BG PNG_24
+  - first:
+      213: -6671756076415866491
+    second: Greeding BG PNG_25
+  - first:
+      213: -3139108681069345962
+    second: Greeding BG PNG_26
+  - first:
+      213: -4637174085633693083
+    second: Greeding BG PNG_27
+  - first:
+      213: -5107231825647381168
+    second: Greeding BG PNG_28
+  - first:
+      213: 3945924790034294098
+    second: Greeding BG PNG_29
+  - first:
+      213: -7945108791423581629
+    second: Greeding BG PNG_30
+  - first:
+      213: -1041838836248646146
+    second: Greeding BG PNG_31
+  - first:
+      213: 6365756176652852071
+    second: Greeding BG PNG_32
+  - first:
+      213: -426504813976714074
+    second: Greeding BG PNG_33
+  - first:
+      213: -7909812611490553840
+    second: Greeding BG PNG_34
+  - first:
+      213: -6754999375340730427
+    second: Greeding BG PNG_35
+  - first:
+      213: -1119309819613153246
+    second: Greeding BG PNG_36
+  - first:
+      213: 6197504509597653564
+    second: Greeding BG PNG_37
+  - first:
+      213: -8599183311022534377
+    second: Greeding BG PNG_38
+  - first:
+      213: -1216899774040328742
+    second: Greeding BG PNG_39
+  - first:
+      213: -5815460442495987785
+    second: Greeding BG PNG_40
+  - first:
+      213: -2898059399321357838
+    second: Greeding BG PNG_41
+  - first:
+      213: 5344256128789594339
+    second: Greeding BG PNG_42
+  - first:
+      213: 5651210005559330684
+    second: Greeding BG PNG_43
+  - first:
+      213: -7644054450878250992
+    second: Greeding BG PNG_44
+  - first:
+      213: 2900064389434894504
+    second: Greeding BG PNG_45
+  - first:
+      213: -1729191779326008205
+    second: Greeding BG PNG_46
+  - first:
+      213: -7515965206816046920
+    second: Greeding BG PNG_47
+  - first:
+      213: -7360992697534984773
+    second: Greeding BG PNG_48
+  - first:
+      213: 9179399778734776799
+    second: Greeding BG PNG_49
+  - first:
+      213: 2176517575052607222
+    second: Greeding BG PNG_50
+  - first:
+      213: 4228617857442581651
+    second: Greeding BG PNG_51
+  - first:
+      213: 3493156423697649383
+    second: Greeding BG PNG_52
+  - first:
+      213: -3548515147563581762
+    second: Greeding BG PNG_53
+  - first:
+      213: 1194843708244557872
+    second: Greeding BG PNG_54
+  - first:
+      213: 8558534995998251953
+    second: Greeding BG PNG_55
+  - first:
+      213: -8445173387993951930
+    second: Greeding BG PNG_56
+  - first:
+      213: 3987204738437692289
+    second: Greeding BG PNG_57
+  - first:
+      213: 131430086082349757
+    second: Greeding BG PNG_58
+  - first:
+      213: 6929200849781198655
+    second: Greeding BG PNG_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Greeding BG PNG_0
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 5105
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4dbeef4ac61340800000000000000
+      internalID: 4834273694685416907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_1
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 5129
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b19f27db96fa00800000000000000
+      internalID: 789990133168453996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_2
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 5129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6987723e16b322f0800000000000000
+      internalID: -998754451534149267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_3
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 5129
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67a2c85ac946b330800000000000000
+      internalID: 3726246875117037423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_4
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 5121
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d1ebd90ad33690800000000000000
+      internalID: -7623510008329546178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_5
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 5113
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff728d66ef5b63b0800000000000000
+      internalID: -5518211475128025099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_6
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 5089
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca7dc7255d0d77f0800000000000000
+      internalID: -613319314861360438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_7
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 5113
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2114b17d28dc10800000000000000
+      internalID: 2078461194407063040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_8
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 5106
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79597d3b2845c5390800000000000000
+      internalID: -7828289131937032809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_9
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 5081
+        width: 108
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01100b09854620720800000000000000
+      internalID: 2810919448979964176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_10
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 5097
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d4ae8dc099c090800000000000000
+      internalID: -8013714849393224927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_11
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 5073
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2362b00fcf494f0800000000000000
+      internalID: -822754723992554757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_12
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 5018
+        width: 202
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaedc1632ccf76f0800000000000000
+      internalID: -684604166000219420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_13
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 5017
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f75189399c2d30800000000000000
+      internalID: 4408066607551083810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_14
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 5033
+        width: 146
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12d1956e19e3bd0800000000000000
+      internalID: -2648519112323685955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_15
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 4998
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829c56a5587f03ae0800000000000000
+      internalID: -1571484117832971992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_16
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 4992
+        width: 226
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754ce5e04cc5dac0800000000000000
+      internalID: -3830931328901298824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_17
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 5017
+        width: 178
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2bedbea99293cc0800000000000000
+      internalID: -3730905070940802382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_18
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 5004
+        width: 202
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d131da97186c8a0800000000000000
+      internalID: -6285193870354211569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_19
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 4993
+        width: 114
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b56388ad19716f0800000000000000
+      internalID: -713941648140772607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_20
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 4993
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c88d8fce76381c0800000000000000
+      internalID: -4502640934955479933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_21
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 4994
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae97aa6fe46513dc0800000000000000
+      internalID: -3661050124929697302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_22
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 4993
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53aaed86e6bbba20800000000000000
+      internalID: 3079255871577563999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_23
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 4988
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f278b7c935e8030800000000000000
+      internalID: 3498825892065914671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5146
+        height: 4992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88520763ada710c70800000000000000
+      internalID: 8935558213314553224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_25
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 4980
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ad2d62392963a0800000000000000
+      internalID: -6671756076415866491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_26
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 4972
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65344894945af64d0800000000000000
+      internalID: -3139108681069345962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_27
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 3121
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a2828ecb275afb0800000000000000
+      internalID: -4637174085633693083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_28
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 2993
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d7beb6b77f19b0800000000000000
+      internalID: -5107231825647381168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_29
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2609
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e66ca0bdb2c630800000000000000
+      internalID: 3945924790034294098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_30
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 2525
+        width: 19
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424d5136ad4db190800000000000000
+      internalID: -7945108791423581629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_31
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 2513
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd613c2915aa81f0800000000000000
+      internalID: -1041838836248646146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_32
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 2041
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5424f385b75850800000000000000
+      internalID: 6365756176652852071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_33
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 2009
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48ce3a120c41af0800000000000000
+      internalID: -426504813976714074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_34
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 156
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010633c7653ba3290800000000000000
+      internalID: -7909812611490553840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_35
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 161
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c784de8bdb6142a0800000000000000
+      internalID: -6754999375340730427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_36
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 154
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f95046a96770f0800000000000000
+      internalID: -1119309819613153246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_37
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 141
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a13740485f10650800000000000000
+      internalID: 6197504509597653564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_38
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 146
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d80cc65099a880800000000000000
+      internalID: -8599183311022534377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_39
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5b2195a14bc1fe0800000000000000
+      internalID: -1216899774040328742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_40
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc0b70a855b4fa0800000000000000
+      internalID: -5815460442495987785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_41
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 129
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f775b45608c7d0800000000000000
+      internalID: -2898059399321357838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_42
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 128
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0453152ac9a2a40800000000000000
+      internalID: 5344256128789594339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_43
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 129
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c774f740f812d6e40800000000000000
+      internalID: 5651210005559330684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_44
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 129
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01088a31afcdae590800000000000000
+      internalID: -7644054450878250992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_45
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 122
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8e60e62391f3820800000000000000
+      internalID: 2900064389434894504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_46
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 130
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3746fb40d3da008e0800000000000000
+      internalID: -1729191779326008205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_47
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 121
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c887377de1b790800000000000000
+      internalID: -7515965206816046920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_48
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 117
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdce2d442088d990800000000000000
+      internalID: -7360992697534984773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_49
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 76
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd129c6d677c36f70800000000000000
+      internalID: 9179399778734776799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_50
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb76ce33b843e10800000000000000
+      internalID: 2176517575052607222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_51
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 69
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c0db389811faa30800000000000000
+      internalID: 4228617857442581651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_52
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 53
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee4f53824f2a7030800000000000000
+      internalID: 3493156423697649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_53
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 53
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe316d264421cec0800000000000000
+      internalID: -3548515147563581762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_54
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0300708a500f49010800000000000000
+      internalID: 1194843708244557872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_55
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 28
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb993adb3606c670800000000000000
+      internalID: 8558534995998251953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_56
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 28
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d90e4c87bcca80800000000000000
+      internalID: -8445173387993951930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_57
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 20
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b3551a595655730800000000000000
+      internalID: 3987204738437692289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_58
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 20
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaccb987fee2d100800000000000000
+      internalID: 131430086082349757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greeding BG PNG_59
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 4
+        width: 101
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0b8cd577792060800000000000000
+      internalID: 6929200849781198655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Greeding BG PNG_0: 4834273694685416907
+      Greeding BG PNG_1: 789990133168453996
+      Greeding BG PNG_10: -8013714849393224927
+      Greeding BG PNG_11: -822754723992554757
+      Greeding BG PNG_12: -684604166000219420
+      Greeding BG PNG_13: 4408066607551083810
+      Greeding BG PNG_14: -2648519112323685955
+      Greeding BG PNG_15: -1571484117832971992
+      Greeding BG PNG_16: -3830931328901298824
+      Greeding BG PNG_17: -3730905070940802382
+      Greeding BG PNG_18: -6285193870354211569
+      Greeding BG PNG_19: -713941648140772607
+      Greeding BG PNG_2: -998754451534149267
+      Greeding BG PNG_20: -4502640934955479933
+      Greeding BG PNG_21: -3661050124929697302
+      Greeding BG PNG_22: 3079255871577563999
+      Greeding BG PNG_23: 3498825892065914671
+      Greeding BG PNG_24: 8935558213314553224
+      Greeding BG PNG_25: -6671756076415866491
+      Greeding BG PNG_26: -3139108681069345962
+      Greeding BG PNG_27: -4637174085633693083
+      Greeding BG PNG_28: -5107231825647381168
+      Greeding BG PNG_29: 3945924790034294098
+      Greeding BG PNG_3: 3726246875117037423
+      Greeding BG PNG_30: -7945108791423581629
+      Greeding BG PNG_31: -1041838836248646146
+      Greeding BG PNG_32: 6365756176652852071
+      Greeding BG PNG_33: -426504813976714074
+      Greeding BG PNG_34: -7909812611490553840
+      Greeding BG PNG_35: -6754999375340730427
+      Greeding BG PNG_36: -1119309819613153246
+      Greeding BG PNG_37: 6197504509597653564
+      Greeding BG PNG_38: -8599183311022534377
+      Greeding BG PNG_39: -1216899774040328742
+      Greeding BG PNG_4: -7623510008329546178
+      Greeding BG PNG_40: -5815460442495987785
+      Greeding BG PNG_41: -2898059399321357838
+      Greeding BG PNG_42: 5344256128789594339
+      Greeding BG PNG_43: 5651210005559330684
+      Greeding BG PNG_44: -7644054450878250992
+      Greeding BG PNG_45: 2900064389434894504
+      Greeding BG PNG_46: -1729191779326008205
+      Greeding BG PNG_47: -7515965206816046920
+      Greeding BG PNG_48: -7360992697534984773
+      Greeding BG PNG_49: 9179399778734776799
+      Greeding BG PNG_5: -5518211475128025099
+      Greeding BG PNG_50: 2176517575052607222
+      Greeding BG PNG_51: 4228617857442581651
+      Greeding BG PNG_52: 3493156423697649383
+      Greeding BG PNG_53: -3548515147563581762
+      Greeding BG PNG_54: 1194843708244557872
+      Greeding BG PNG_55: 8558534995998251953
+      Greeding BG PNG_56: -8445173387993951930
+      Greeding BG PNG_57: 3987204738437692289
+      Greeding BG PNG_58: 131430086082349757
+      Greeding BG PNG_59: 6929200849781198655
+      Greeding BG PNG_6: -613319314861360438
+      Greeding BG PNG_7: 2078461194407063040
+      Greeding BG PNG_8: -7828289131937032809
+      Greeding BG PNG_9: 2810919448979964176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
