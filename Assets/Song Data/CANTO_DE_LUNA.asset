@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2c132695cbe3943a20384e58de2aae, type: 3}
+  m_Name: CANTO_DE_LUNA
+  m_EditorClassIdentifier: 
+  songName: CANTO_DE_LUNA
+  artwork: {fileID: 21300000, guid: 324b79ce91b065445b6e6e17d260240d, type: 3}
+  demoClip: {fileID: 8300000, guid: 49179a4da6925244c8b0dd645035b1fc, type: 3}
+  fullClip: {fileID: 8300000, guid: 49179a4da6925244c8b0dd645035b1fc, type: 3}
